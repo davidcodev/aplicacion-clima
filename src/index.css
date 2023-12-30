@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Thin.ttf');
+}
+body{
+  background: linear-gradient(to top, #6b6b6b, #5a86cc);
+  height: 100vh;
+}
